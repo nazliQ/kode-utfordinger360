@@ -7,7 +7,6 @@ Målet er å bli god til å løse problemer, sammtidig som jeg utforsker ulike t
 
 
 ## Utfordringer deler
---- 
 
 Utfordringen er delt opp i 4 deler (kanskje 5)
 
@@ -32,8 +31,9 @@ Utfordringen er delt opp i 4 deler (kanskje 5)
 
 
 ## Del prosessen 
----
+
 En skal dele prosessen på @treads eller annet sosiale medie hvis mulig.
+
 
 
 
